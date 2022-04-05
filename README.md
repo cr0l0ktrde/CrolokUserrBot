@@ -1,16 +1,16 @@
 
 <div align="center">
   <img src="https://i.hizliresim.com/rlogmsn.jpg" width="400" height="400">
-  <h1>🇹🇷 Owen UserBot 🇺🇲</h1>
+  <h1>CrolokUserBot</h1>
 </div>
 <p align="center">
-    Owen UserBot, Telegram kullanmanızı kolaylaştıran ve eğlenceli bir yol almasını sağlayan bir bottur. <br>
-    Owen UserBot is a bot that makes it easy and fun to use Telegram.
+    Crolok UserBot, Telegramda sizin işlərinizi rahatlaşdırmağ üçün yaradılmış botdur <br>
+    Crolo UserBot is a bot that makes it easy and fun to use Telegram.
     <br>
         <a href="https://github.com/erdewbey/OwenUserBot/blob/master/README.md#kurulum/setup">| Kurulum/Setup</a> |
         <a href="https://github.com/erdewbey/OwenUserBot/wiki/G%C3%BCncelleme">Güncelleme/Update</a> |
-        <a href="https://t.me/OwenUserBot">Kanal/Channel </a> |
-        <a href="https://t.me/OwenSupport">Destek/Support</a> |
+        <a href="https://t.me/CrolokUserBot">Kanal/Channel </a> |
+        <a href="https://t.me/CrolokSup">Dəstək/Support</a> |
     <br>
 </p>
 
